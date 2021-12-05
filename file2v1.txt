@@ -1,2 +1,3 @@
 file 2 created
 editing first time
+new line created
